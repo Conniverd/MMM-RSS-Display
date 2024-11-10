@@ -1,0 +1,19 @@
+{
+    "name": "MMM-RSS-Display",
+    "version": "1.0.0",
+    "description": "A MagicMirror module to display RSS feeds with images and QR codes.",
+    "main": "MMM-RSS-Display.js",
+    "scripts": {
+      "start": "node MMM-RSS-Display.js"
+    },
+    "dependencies": {
+      "dompurify": "^2.3.6",
+      "cheerio": "^1.0.0-rc.12",
+      "jsdom": "^22.1.0",
+      "qrcode": "^1.5.1",
+      "rss-parser": "^3.12.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
