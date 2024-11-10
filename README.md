@@ -6,10 +6,10 @@ I use this on a vertical screen setup (1080x1920), and the module at the bottom,
 I have not tested the modules in any other position.
 
 ## Screenshot
-<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_1.jpg" width="800">
-<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_2.jpg" width="800">
-<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_3.jpg" width="800">
-<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_4.jpg" width="800">
+<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_1.jpg?raw=true" width="800">
+<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_2.jpg?raw=true" width="800">
+<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_3.jpg?raw=true" width="800">
+<img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_4.jpg?raw=true" width="800">
 
 
 ## Concept
