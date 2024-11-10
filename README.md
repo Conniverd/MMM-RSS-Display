@@ -11,12 +11,6 @@ I have not tested the modules in any other position.
 <img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_3.jpg?raw=true" width="800">
 <img src="https://github.com/Conniverd/MMM-RSS-Display/blob/9d51a0df97ed40dcc64426e8b8b914a95bb47890/screenshot/screenshot_4.jpg?raw=true" width="800">
 
-
-## Concept
-
-This is a sibling module of `[MMM-CalendarExt3](https://github.com/MMRIZE/MMM-CalendarExt3)`. This module is made to be an alternative to my previous module `MMM-CalendarExt2`, especially `daily`, `current` and `upcoming` views.
-
-
 ## Features
 
 - **Multiple RSS Feeds:** Display content from various RSS sources simultaneously.
